@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Спасибо,я знаю 🥰. и ты лучшая ❤️❤️❤️ ',
     messDesc: 'Давай поговорим немножко? Мне скучно😩',
     btnAccept: 'Окей <3',
-    messLink: 'https://www.instagram.com/direct/t/340282366841710300949128183151948330593' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.instagram.com/_tran_asiaann/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
