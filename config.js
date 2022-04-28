@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    titleWeb: "web này chỉ dành cho em 💕 ",
+    introTitle: 'Con nai vàng ngơ ngác💗💗💗 ',
+    introDesc: `Em là người mang cho anh nhiều niềm vui 
+    Chúng ta bắt đầu với những dòng tin nhắn vu vơ
+    Bất ngờ trong vô thức em lạc vào tim anh 😘
+    Đằng sau đây là những lời yêu thương anh muốn nói 😻`,
+    btnIntro: 'Yêu 💋💋💋',
+    title: 'Phải chăng em đã đổ anh ngay từ lần đầu  🥰',
+    desc: 'Thế thì còn chần chừ gì nữa mà không làm người yêu anh  ',
+    btnYes: 'Em lúc nào cũng thích anh  ',
+    btnNo: 'Không, anh trai ak',
+    question: 'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh? 520 ',
+    btnReply: 'Gửi anh yêu',
+    reply: 'Anh đẹp trai ,nhìn thì chảnh nhưng lại ấm áp thì không yêu sao được💖💖💖',
+    mess: 'Anh  biết mà 🥰. Yêu em  nhiều nhiều 😘😘',
+    messDesc: 'Nếu đã đồng ý thì sao còn không gọi cho anh .',
+    btnAccept: 'Vâng anh yêu em gọi liền',
+    messLink: 'https://www.facebook.com/yoonk03' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
