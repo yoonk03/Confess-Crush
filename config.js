@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Это для тебя",
-    introTitle: 'Лиза',
-    introDesc: `Мы с тобой прошли не малый путь,
-    ты подарила мне счастье и веру в любовь.
-    Спасибо 😘. 
-    Поздравляю тебя днём валентины`,
-    btnIntro: '^❤️❤️❤️^^',
-    title: 'Отдай все свои деньги ',
-    desc: 'Ну попробуй только нажать нет  ',
-    btnYes: 'Конечно',
-    btnNo: 'НЕТ',
-    question: 'Любишь меня  ?',
-    btnReply: 'отправить',
-    reply: 'ДА ты мой краш',
-    mess: 'Спасибо,я знаю 🥰. а ты моя любимая❤️❤️❤️ ',
-    messDesc: 'Давай пошли гулять? Мне скучно😩',
-    btnAccept: 'Окей,в субботу  <3',
-    messLink: 'https://www.instagram.com/zerch.0_o/' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    titleWeb: "web này chỉ dành cho em 💕",
+    introTitle: 'Con nai vàng ngơ ngác💗💗💗(Linh)',
+    introDesc: `Em là người mang cho anh nhiều niềm vui 
+    Chúng ta bắt đầu với những dòng tin nhắn vu vơ
+    Bất ngờ trong vô thức em lạc vào tim anh 😘
+    Đằng sau đây là những lời yêu thương anh muốn nói 😻`,
+    btnIntro: 'Yêu 💋💋💋',
+    title: 'Phải chăng em đã đổ anh ngay từ lần đầu 🥰 ',
+    desc: 'Thế thì còn chần chừ gì nữa mà không làm người yêu anh  ',
+    btnYes: 'Em lúc nào cũng thích anh',
+    btnNo: 'Không, anh già ',
+    question: 'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh?',
+    btnReply: 'Gửi anh yêu',
+    reply: 'Anh đẹp trai ,nhìn thì chảnh nhưng lại ấm áp thì không yêu sao được💖💖💖',
+    mess: 'Anh  biết mà 🥰. Yêu em  nhiều nhiều 😘😘 ',
+    messDesc: 'Nếu đã đồng ý thì sao còn không gọi cho anh, anh nhớ em ',
+    btnAccept: 'Vâng anh yêu em gọi liền',
+    messLink: 'https://www.facebook.com/yoonk03' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
