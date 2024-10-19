@@ -33,9 +33,9 @@ function firstQuestion() {
         title: CONFIG.introTitle,
         text: CONFIG.introDesc,
         imageUrl: 'img/logi.gif',
-        imageWidth: 300,
-        imageHeight: 300,
-        background: '#fff url("img/iput-bg.jpg")',
+        imageWidth: 600,
+        imageHeight: 500,
+        background: '#fff url("img/cuoi.jpg")',
         imageAlt: 'Custom image',
         confirmButtonText: CONFIG.btnIntro
     }).then(function() {
@@ -110,11 +110,11 @@ $('#yes').click(function() {
     audio.play();
     Swal.fire({
         title: CONFIG.question,
-        html: true,
-        width: 900,
+        html: false,
+        width: 700,
         padding: '3em',
         html: "<input type='text' class='form-control' id='txtReason' onmousemove=textGenerate()  placeholder='Whyyy'>",
-        background: '#fff url("img/iput-bg.jpg")',
+        background: '#fff url("img/test.jpg")',
         backdrop: `
               rgba(0,0,123,0.4)
               url("img/giphy2.gif")
@@ -123,16 +123,22 @@ $('#yes').click(function() {
             `,
         confirmButtonColor: '#3085d6',
         confirmButtonColor: '#fe8a71',
-        confirmButtonText: CONFIG.btnReply
+        confirmButtonText: CONFIG.btnReply,
+        customClass: {
+            popup: 'large-popup' // Применяем кастомный класс
+        }
     }).then((result) => {
         if (result.value) {
             Swal.fire({
                 width: 900,
                 confirmButtonText: CONFIG.btnAccept,
-                background: '#fff url("img/iput-bg.jpg")',
+                background: '#fff url("img/me_you.jpg")',
                 title: CONFIG.mess,
                 text: CONFIG.messDesc,
                 confirmButtonColor: '#83d0c9',
+                customClass: {
+                    popup: 'large1-popup' // Применяем кастомный класс
+                },
                 onClose: () => {
                     window.location = CONFIG.messLink;
                 }

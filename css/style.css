@@ -29,7 +29,8 @@
     /* height: 100vh; */
     z-index: 0;
     background-repeat: no-repeat;
-    background-image: url(../img/bg.webp);
+    /* background-image: url(../img/bg.webp); */
+    background-image: url(../img/thuycung.jpg);
     background-size: cover;
     background-position: 50%;
     -webkit-filter: blur(4px);
@@ -59,8 +60,9 @@ header h2 {
 header h4 {
     font-family: 'Pacifico';
     text-align: center;
-    color: chartreuse;
+    color: #800000; /* Бордовый цвет */
 }
+
 
 @media only screen and (max-width: 500px) {
     header h2 {
@@ -96,4 +98,14 @@ header h4 {
 
 .swal2-backdrop-show {
     background-size: 200px 100px !important;
+}
+.large-popup {
+    width: 1200px !important;  /* Увеличиваем ширину */
+    height: 600px !important;  /* Увеличиваем высоту */
+    max-width: 100% !important; /* Ограничиваем по ширине экрана */
+}
+.large1-popup {
+    width: 1200px !important;  /* Увеличиваем ширину */
+    height: 1200px !important;  /* Увеличиваем высоту */
+    max-width: 100% !important; /* Ограничиваем по ширине экрана */
 }
